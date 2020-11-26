@@ -6,3 +6,6 @@ end
 def 
   print_display_rainbow(color)
 end
+def 
+  print_display_rainbow(color)
+  
